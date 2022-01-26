@@ -1,2 +1,2 @@
 # Panda_DataFrames
-Repository
+Repository used to learn and test more about DataFrames (tabular structures) in Panda lib
